@@ -1,6 +1,7 @@
 # Hi, There unknown visitor
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=3000&color=00FF28&width=880&lines=No+technology+that's+connected+to+internet+is+unhackable.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=3000&color=FF0000&width=880&lines=“It's+just+a+chapter,+not+your+whole+story.”)](https://git.io/typing-svg)
 <div>
   <a href="https://github.com/SH4RL1E">
    <img align="center" height="157" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH4RL1E&layout=compact&langs_count=16&theme=blue-green"/>
